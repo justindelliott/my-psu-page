@@ -1,5 +1,8 @@
 # my-psu-page
 
-Testing GitHub pages.
+Testing GitHub pages...
 
-Public site hosted on GitHub Pages at https://justindelliott.github.io/my-psu-page/
+1. Repo -> Settings
+2. Pages
+3. Select branch and root directory for the site pages
+4. Public site hosted at https://justindelliott.github.io/my-psu-page/
